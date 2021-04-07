@@ -29,9 +29,9 @@ app.use('/auth', authRouter);
 app.use('/info', infoRouter);
 app.use('/products', productRouter);
 
-app.listen('3000', () => {
-    console.log('run');
-});
+// app.listen('3000', () => {
+//     console.log('run');
+// });
 
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
