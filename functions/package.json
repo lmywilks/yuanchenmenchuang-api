@@ -14,7 +14,7 @@
   "author": "Mingyang Li",
   "license": "MIT",
   "engines": {
-    "node": "15"
+    "node": "14"
   },
   "dependencies": {
     "cors": "^2.8.5",
